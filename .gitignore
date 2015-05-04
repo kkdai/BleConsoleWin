@@ -1,0 +1,5 @@
+*.ipch
+Debug/
+*.suo
+BLEConsole.opensdf
+BLEConsole.sdf
